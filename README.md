@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pratik
 - 🌱 I’m currently learning data science and machine learning
 - 📫  reach me at...kprati833@gmail.com
+
 I like playing basketball and playing mobile games
 
 <!---
